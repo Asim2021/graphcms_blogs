@@ -1,3 +1,4 @@
+import React from 'react'
 import {useEffect, useState} from 'react'
 import Link from 'next/dist/client/link'
 import { getCategories } from '../services'
